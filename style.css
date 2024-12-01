@@ -1,0 +1,23 @@
+.highlight{
+  background-color: yellow;
+}
+
+.error{
+  background-color:lightcoral;
+  background: red;
+}
+
+body{
+  margin: 5;
+  padding: 14 14;
+  background-color: lavenderblush;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.darkmode{
+  background-color: black;
+  color:white;
+}
